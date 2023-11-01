@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rebar", "Rebar\Rebar.csproj", "{08A4D1DD-D53B-4790-85BB-65044914A867}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rebar", "Rebar.csproj", "{24AE55B0-BB14-485E-A2CD-AD030889B348}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{08A4D1DD-D53B-4790-85BB-65044914A867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{08A4D1DD-D53B-4790-85BB-65044914A867}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{08A4D1DD-D53B-4790-85BB-65044914A867}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{08A4D1DD-D53B-4790-85BB-65044914A867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24AE55B0-BB14-485E-A2CD-AD030889B348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24AE55B0-BB14-485E-A2CD-AD030889B348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24AE55B0-BB14-485E-A2CD-AD030889B348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24AE55B0-BB14-485E-A2CD-AD030889B348}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {509A1E1E-2AA8-498B-8DF7-A5B059922FC7}
+		SolutionGuid = {B728984A-A8EC-4519-8554-DDB046D6D060}
 	EndGlobalSection
 EndGlobal
